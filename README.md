@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Amit
 ### Backend Developer | Python | FastAPI | Django
 
-![Profile Banner](https://avatars.githubusercontent.com/u/73033545?v=4))
 
 Backend Developer with 3+ years of experience building scalable APIs, real-time systems, and backend services with clean architecture and modern tooling.
 
