@@ -1,66 +1,71 @@
 # 👋 Hi, I’m Amit Kumar Keshri
 ### Backend Developer | Python | FastAPI | Django
 
-I’m a passionate Backend Developer with **3+ years of experience** building API-driven systems, real-time applications, and scalable backend services. I focus on clean, maintainable code and architecting systems that solve real problems.
+![Profile Banner](https://user-images.githubusercontent.com/amit-v07/your-banner.png)
+
+Backend Developer with 3+ years of experience building scalable APIs, real-time systems, and backend services with clean architecture and modern tooling.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-**Languages:** Python · JavaScript · PHP  
-**Backend:** FastAPI · Django · Flask  
-**Databases:** PostgreSQL · MySQL · MongoDB  
-**DevOps & Tools:** Docker · Git · Linux  
-**Core Concepts:** REST API · JWT Authentication · OAuth2 · Async Programming · API Integration
-
----
-
-## 🚀 What I Build
-
-- 🧠 Scalable backend APIs with authentication & role security  
-- ⚙️ Real-time asynchronous systems  
-- 📦 Containerized deployments using Docker  
-- 🛠️ Integration with third-party APIs  
-- 📊 Systems with robust logging, monitoring, and observability
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005AFF?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 📁 Highlighted Projects
+## 📊 GitHub Stats & Contributions
 
-### 💡 **AI-Powered Discord Music Bot**
-A real-time Discord music streaming system with advanced queue management, async architecture, Flask monitoring dashboard, Spotify/YouTube integration, and Docker deployment.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-v07&show_icons=true&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-v07&layout=compact&theme=dark&hide_border=true" width="49%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-v07&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+## 📁 Featured Projects
+
+### 🚀 AI-Powered Discord Music Bot
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AsyncIO-007ACC?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.py-7289DA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+A production-ready Discord music bot supporting real-time streaming across multiple servers with advanced queue features and monitoring dashboard.  
 🔗 https://github.com/amit-v07/Music-DC-bot
 
 ---
 
-### 🐦 **The Social Vibe**
-A social platform backend with FastAPI, JWT auth, OAuth2 social login, and optimized PostgreSQL schema.
+### 💼 The Social Vibe
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-005AFF?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square" />
+</p>
 
+REST API backend with modular FastAPI structure, JWT authentication, OAuth2 support, and optimized database design.  
 🔗 https://github.com/Amit-Kumar-Keshri/SocialMedia
 
 ---
 
-### 🍽️ **Favor Food**
-A Django-based backend for food ordering and delivery workflow, with secure payment integration.
+### 🍔 Favor Food
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
-🔗 https://github.com/Amit-Kumar-Keshri/foodDelivery
-
----
-
-## 📈 GitHub Stats
-
-> *(Optional — if you want to include a stats card)*
-
-![Amit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=amit-v07&show_icons=true&theme=dark)
-
----
-
-## 📬 Let’s Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/amit-keshri-3458981a3  
-- 📧 Email: amitkeshri003@gmail.com  
-
----
-
-Thank you for stopping by 👋
+Backend service for
